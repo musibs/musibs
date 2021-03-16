@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Spring Boot in Practice Book and gearing up for my personal blog.
+- 🔭 I’m currently working on Spring Boot in Practice Book and gearing up for my personal technical blog.
 - 🌱 I’m currently learning AWS.
 - 💬 Ask me about Java, Spring, Spring Boot or any technical stuffs.
 - 😄 Pronouns: He/His
