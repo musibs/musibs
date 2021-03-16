@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hey there, I'm Somnath Musib! 👋
 
-<!--
-**musibs/musibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/musib123">
+  <img alt="Somnath's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> &nbsp;
+<a href="https://linkedin.com/in/musibs">
+  <img alt="Somnath's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> &nbsp;
+<a href="https://stackoverflow.com/users/story/2051126">
+  <img alt="Somnath's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a> &nbsp;
+<a href="https://www.reddit.com/user/musibs">
+  <img alt="Somnath's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a> &nbsp;
+<a href="https://www.facebook.com/musibs/">
+  <img alt="Somnath's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>  &nbsp;
+<a href="https://www.instagram.com/musib123/">
+  <img alt="Somnath's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Spring Boot in Practice Book and gearing up for my personal blog.
+- 🌱 I’m currently learning AWS.
+- 💬 Ask me about Java, Spring, Spring Boot or any technical stuffs.
+- 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter follow @musib123](https://img.shields.io/twitter/follow/musib123?style=social)](https://twitter.com/musib123) &nbsp;
+[![Linkedin follow @musibs](https://img.shields.io/badge/-musibs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musibs/)](https://www.linkedin.com/in/musibs/) &nbsp;
+[![Reddit follow @musibs](https://img.shields.io/reddit/user-karma/link/musibs?label=musibs&style=social)](https://www.reddit.com/user/musibs) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-medium.com-brightgreen)](https://medium.com/@musibs)
+
+**Languages and Tools:**  
+
+<a href="https://github.com/musibs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musibs&theme=light&count_private=true&layout=compact" alt="Somnath's most used languages" />
+</a>
+<a href="https://github.com/musibs">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=musibs&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Somnath's github stats"/>
+</a>
