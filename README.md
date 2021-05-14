@@ -22,8 +22,8 @@
 <br/>
 
 - 🔭 I’m currently working on Spring Boot in Practice Book and gearing up for my personal technical blog.
-- 🌱 I’m currently learning AWS.
-- 💬 Ask me about Java, Spring, Spring Boot or any technical stuffs.
+- 🌱 I’m currently learning Kuberneters and a lot many other things :).
+- 💬 Ask me about Java, Spring, Spring Boot or any technical stuffs. I love conversations related to tech, its impact and the potential to make a difference in human life.  
 - 😄 Pronouns: He/His
 
 [![Twitter follow @musib123](https://img.shields.io/twitter/follow/musib123?style=social)](https://twitter.com/musib123) &nbsp;
