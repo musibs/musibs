@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Spring Boot in Practice Book and gearing up for my personal technical blog.
+- 🔭 I’ve just finished publishing my book Spring Boot in Practice Book. 
 - 🌱 I’m currently learning Kuberneters and a lot many other things :).
 - 💬 Ask me about Java, Spring, Spring Boot or any technical stuffs. I love conversations related to tech, its impact and the potential to make a difference in human life.  
 - 😄 Pronouns: He/His
