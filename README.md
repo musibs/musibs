@@ -4,7 +4,7 @@
   <img alt="Somnath's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
 <a href="https://linkedin.com/in/musibs">
-  <img alt="Somnath's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Somnath's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> &nbsp;
 <a href="https://stackoverflow.com/users/story/2051126">
   <img alt="Somnath's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
@@ -21,9 +21,9 @@
 <br/>
 <br/>
 
-- 🔭 I’ve just finished publishing my book Spring Boot in Practice. 
-- 🌱 I’m currently learning Kuberneters and a lot many other things :).
-- 💬 Ask me about Java, Spring, Spring Boot or any technical stuffs. I love conversations related to tech, its impact and the potential to make a difference in human life.  
+- 🔭 I’ve written _Spring Boot in Practice_ book. 
+- 🌱 I’m currently learning Kubernetes and many other things :).
+- 💬 Ask me about Java, Spring, Spring Boot or any technical stuff. I love conversations related to tech, its impact and the potential to make a difference in human life.  
 - 😄 Pronouns: He/His
 
 [![Twitter follow @musib123](https://img.shields.io/twitter/follow/musib123?style=social)](https://twitter.com/musib123) &nbsp;
