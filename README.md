@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-- 🔭 I’ve written _Spring Boot in Practice_ book. 
-- 🌱 I’m currently learning Kubernetes and many other things :).
+- 🔭 I’ve authored _Spring Boot in Practice_ book and currently writing _Spring Boot in Depth_. 
+- 🌱 I’m focusing on AI and AI powered software solutions.
 - 💬 Ask me about Java, Spring, Spring Boot or any technical stuff. I love conversations related to tech, its impact and the potential to make a difference in human life.  
 - 😄 Pronouns: He/His
 
